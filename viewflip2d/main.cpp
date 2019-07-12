@@ -109,7 +109,8 @@ int main(int argc, char **argv)
    Gluvi::StaticText frametext(frame_number);
    Gluvi::root.list.push_back(&frametext);
 
-   char ppmfileformat[10 + 5];//char ppmfileformat[strlen(file_format)+5];
+   char ppmfileformat[10 + 5];
+   //char ppmfileformat[strlen(file_format)+5];
    sprintf(ppmfileformat, "%s.ppm", file_format);
    ScreenShotButton screenshot("Screenshot", ppmfileformat);
    Gluvi::root.list.push_back(&screenshot);

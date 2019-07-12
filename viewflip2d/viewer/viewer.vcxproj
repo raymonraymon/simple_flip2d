@@ -78,7 +78,7 @@
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>D:\GIT\liquidfun\Robertbridson\code\simple_flip2d\viewflip2d\glut32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>E:\github\Robertbridson\code\simple_flip2d\viewflip2d\glut32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">

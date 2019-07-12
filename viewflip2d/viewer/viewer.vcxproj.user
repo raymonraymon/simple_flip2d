@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>frameparticles0000</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>frameparticles</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerWorkingDirectory>D:\GIT\liquidfun\Robertbridson\code\simple_flip2d\viewflip2d\viewer\Debug</LocalDebuggerWorkingDirectory>
   </PropertyGroup>
 </Project>
